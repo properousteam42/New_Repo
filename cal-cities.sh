@@ -12,3 +12,12 @@ DE
 MD
 VA
 AZ
+
+#New modification
+#Names of animal
+cat
+dog
+lion
+chicken
+goat 
+lizard
